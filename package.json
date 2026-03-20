@@ -1,0 +1,22 @@
+{
+  "name": "opencode-anthropic-user-agent-plugin",
+  "version": "0.1.0",
+  "description": "Portable Anthropic auth plugin for OpenCode with configurable User-Agent handling.",
+  "type": "module",
+  "license": "MIT",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [
+    "opencode",
+    "plugin",
+    "anthropic",
+    "oauth",
+    "user-agent"
+  ],
+  "dependencies": {
+    "@opencode-ai/plugin": "1.2.20",
+    "@openauthjs/openauth": "0.4.3"
+  }
+}
