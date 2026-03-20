@@ -1,5 +1,4 @@
-const DEFAULT_USER_AGENT =
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15";
+const DEFAULT_USER_AGENT = "anthropic";
 
 const ANTHROPIC_HOSTS = new Set([
   "api.anthropic.com",
@@ -78,7 +77,7 @@ function patchFetch() {
  * requests targeting Anthropic endpoints.
  *
  * Default:
- *   Uses the built-in Safari/macOS user-agent above.
+ *   Uses the built-in Anthropic user-agent above.
  *
  * Override:
  *   OPENCODE_ANTHROPIC_USER_AGENT='your user agent'

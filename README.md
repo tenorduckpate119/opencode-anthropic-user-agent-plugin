@@ -29,12 +29,18 @@ Then add it to your OpenCode config:
 
 Restart OpenCode.
 
+If Anthropic auth was already failing before you installed the plugin, re-run:
+
+```sh
+opencode auth login -p anthropic -m "Claude Pro/Max"
+```
+
 ## Default behavior
 
-By default, the plugin uses this Safari/macOS user-agent automatically:
+By default, the plugin uses this user-agent automatically:
 
 ```text
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15
+anthropic
 ```
 
 No environment variable is required.
@@ -61,8 +67,8 @@ Then restart OpenCode.
 This repo includes a GitHub Actions workflow that publishes to npm on tags like:
 
 ```sh
-git tag v0.1.0
-git push origin v0.1.0
+git tag v0.1.1
+git push origin v0.1.1
 ```
 
 To enable publishing, add this repository secret:
