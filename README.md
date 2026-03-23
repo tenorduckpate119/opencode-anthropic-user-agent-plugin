@@ -1,3 +1,11 @@
+---
+> ## ⚠️ This plugin has been superseded by [opencode-claude-bridge](https://github.com/dotCipher/opencode-claude-bridge)
+> 
+> `opencode-claude-bridge` combines the best of all community OAuth solutions into one plugin — auto-syncs from Claude CLI keychain, PKCE OAuth fallback, full Claude Code header emulation, and `mcp_` tool name handling. Just add `"plugin": ["opencode-claude-bridge"]` to your OpenCode config.
+> 
+> **This repo is archived and no longer maintained.**
+---
+
 # opencode-anthropic-user-agent-plugin
 
 Portable OpenCode plugin that injects a configurable Anthropic `User-Agent` for:
